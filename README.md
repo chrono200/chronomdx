@@ -4,9 +4,9 @@ CHRONO MDX is a WhatsApp assistant built with Node.js and Baileys.
 
 ## Owner
 
-- **Name:** prince
-- **WhatsApp:** +2348107205977
-- **Email:** deeprince717@gmail.com
+- **Name:** chrono200
+- **WhatsApp:** + something I don't remember 
+- **Email:** nahhhhhhh@gmail.com
 
 **Powered by CHRONODISRUP**
 
@@ -35,7 +35,6 @@ CHRONO MDX is a WhatsApp assistant built with Node.js and Baileys.
 
 ## Important
 
-- Do not commit WhatsApp session credentials, API keys, passwords, or private environment files.
 - Keep the bot running on a host that supports persistent Node.js processes.
 - Review the project configuration before deploying it to a hosting provider.
 
